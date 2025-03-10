@@ -22,6 +22,7 @@ The most advanced timing software for curling matches
 - Other functionality
   - Multi-client support
   - Works on any device with a modern browser (PC, Mac, Linux, Raspberry Pi, Android, iOS)
+  - Supports any screen size and orientation - text fills available space
   - Keyboard shortcuts
   - Real-time updates
   - Secure timer operator access
